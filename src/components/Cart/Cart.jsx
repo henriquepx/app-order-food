@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import PropTypes from 'prop-types';
-import Modal from '../Ui/Modal';
+import Modal from '../Ui/Modal.jsx';
 import CartItem from './CartItem';
 import classes from './Cart.module.css';
 import CartContext from '../../store/Cart-context';

@@ -1,6 +1,6 @@
 # Japapou | React Project
 
-![Japapou Logo](<link-to-your-logo>)
+![Japapou Logo](./public/japapoureadme.png)
 
 Welcome to the Japapou project repository! This project is a web application developed in React with the aim of enhancing knowledge in using this library. The project focuses on applying concepts such as componentization, using hooks, state management, and creating interactive interfaces.
 
@@ -26,24 +26,18 @@ Japapou is a project that simulates a shopping application, where users can add 
 To view the project on your local machine, follow these steps:
 
 1. Make sure you have Node.js installed: [Download Node.js](https://nodejs.org/)
-2. Clone this repository: `git clone <link-to-your-repository>`
-3. Navigate to the project directory: `cd <directory-name>`
+2. Clone this repository: `git clone https://github.com/henriquepx/app-order-food`
+3. Navigate to the project directory: `cd app-order-food`
 4. Install the dependencies: `npm install`
 5. Start the development server: `npm start`
 
 This will open the project in your default web browser.
-
-## Credits
-
-- Project developed as part of learning, similarly to the course "React - The Complete Guide 2023 (incl. React Router & Redux)" taught by Maximilian Schwarzmüller.
 
 ---
 
 ## **Português:**
 
 # Japapou | Projeto em React
-
-![Japapou Logo](<link-para-sua-logo>)
 
 Bem-vindo ao repositório do projeto Japapou! Este projeto é um aplicativo web desenvolvido em React com o objetivo de aprimorar os conhecimentos na utilização dessa biblioteca. O projeto foca na aplicação de conceitos como componentização, utilização de hooks, gerenciamento de estado e criação de interfaces interativas.
 
@@ -69,13 +63,10 @@ O Japapou é um projeto que simula um aplicativo de compras, onde os usuários p
 Para visualizar o projeto em sua máquina local, siga os passos abaixo:
 
 1. Certifique-se de ter o Node.js instalado: [Download Node.js](https://nodejs.org/)
-2. Clone este repositório: `git clone <link-para-seu-repositório>`
-3. Navegue até o diretório do projeto: `cd <nome-do-diretório>`
+2. Clone este repositório: `git clone https://github.com/henriquepx/app-order-food`
+3. Navegue até o diretório do projeto: `cd app-order-food`
 4. Instale as dependências: `npm install`
 5. Inicie o servidor de desenvolvimento: `npm start`
 
 Isso abrirá o projeto no seu navegador padrão.
 
-## Créditos
-
-- Projeto desenvolvido como parte do estudo similarmente ao curso "React - The Complete Guide 2023 (incl. React Router & Redux)" ministrado por Maximilian Schwarzmüller.

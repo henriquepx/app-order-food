@@ -3,14 +3,13 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Delicious Food, Delivered To You</h2>
+      <h2>Exquisite Japanese Delicacies</h2>
+      <h3>Delivered to Your Doorstep</h3>
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
+        Indulge in the art of Japanese cuisine by selecting from our wide array of delectable meals. Relish a culinary journey with a delightful lunch or dinner in the comfort of your home.
       </p>
       <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+        Our masterful chefs meticulously craft each dish using the finest, authentic ingredients, ensuring an unforgettable dining experience that embodies the essence of Japan.
       </p>
     </section>
   );

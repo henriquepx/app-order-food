@@ -33,7 +33,6 @@ To view the project on your local machine, follow these steps:
 
 This will open the project in your default web browser.
 
----
 
 ## **Português:**
 

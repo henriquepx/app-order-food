@@ -4,6 +4,8 @@
 
 Welcome to the Japapou project repository! This project is a web application developed in React with the aim of enhancing knowledge in using this library. The project focuses on applying concepts such as componentization, using hooks, state management, and creating interactive interfaces.
 
+**To view the project online, click [here](https://app-order-food.vercel.app/)**.
+
 ## Project Description
 
 Japapou is a project that simulates a shopping application, where users can add products to the shopping cart, view the total sum of selected products, and simulate a fictitious purchase. The project was developed as part of a learning process, inspired by the course "React - The Complete Guide 2023 (incl. React Router & Redux)" taught by Professor Maximilian Schwarzmüller.
@@ -33,13 +35,14 @@ To view the project on your local machine, follow these steps:
 
 This will open the project in your default web browser.
 
----
 
 ## **Português:**
 
 # Japapou | Projeto em React
 
 Bem-vindo ao repositório do projeto Japapou! Este projeto é um aplicativo web desenvolvido em React com o objetivo de aprimorar os conhecimentos na utilização dessa biblioteca. O projeto foca na aplicação de conceitos como componentização, utilização de hooks, gerenciamento de estado e criação de interfaces interativas.
+
+**Para visualizar o projeto online, clique [aqui](https://app-order-food.vercel.app/)**.
 
 ## Descrição do Projeto
 
